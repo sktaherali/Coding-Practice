@@ -5,7 +5,7 @@ import java.util.Optional;
 import java.util.stream.Collectors;
 
 //Given the list of integers [1,2,3,4,5,6,2,5,6], find the second largest element of the list using core java/java8?
-public class TestQuestion {
+public class FindSecondLargestNumberFromAList {
 
 	public static void main(String[] args) {
 		

@@ -5,7 +5,7 @@ public class FirstNonRepeatedCharacter {
 
 	public static void main(String[] args) {
 
-		System.out.println(getFirstNonRepeatedChar("i    1188i"));
+		System.out.println(getFirstNonRepeatedChar("i   k 1188i"));
 	}
 	
 	public static Character getFirstNonRepeatedChar(String str) {
