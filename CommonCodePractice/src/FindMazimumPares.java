@@ -4,7 +4,7 @@
 // --- pares should not contain reverse pares,  means id (1,2) is present then (2,1) should not be there
 //Find the maximum count of pares with   same sum with non intersecting segments
 
-package test;
+
 
 import java.util.ArrayList;
 import java.util.HashMap;
